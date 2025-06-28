@@ -1,16 +1,13 @@
-## Hi there 👋
+## wsg
 
-<!--
-**Kornah/kornah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- im **Kornah** (find me at Discord: imkornah)
+- i love to make weird projects
+- currently working on an .io game
+- unstable at choosing a programming language
+- *no i wont use rust*
+## current project: J-U-O (Junon.io Unofficial Overhaul)
+- basically junon.io rewritten in C
+- you should be able to run it in your browser (WASM)
+- `SDL2` frfr
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*welcome to the void*
